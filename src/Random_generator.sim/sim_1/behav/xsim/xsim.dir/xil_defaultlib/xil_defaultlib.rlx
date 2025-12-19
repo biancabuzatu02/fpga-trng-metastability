@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/alex/Desktop/Random_generator/Random_generator.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/alex/Desktop/Random_generator/Random_generator.srcs/sim_1/new/tb_trng.v,1766162704,verilog,,,,tb_trng,,,E:/Xilinix/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/alex/Desktop/Random_generator/Random_generator.srcs/sources_1/new/entropy_model.v,1766163822,verilog,,C:/Users/alex/Desktop/Random_generator/Random_generator.srcs/sources_1/new/trng_top.v,,entropy_model;von_neumann_corrector;window_filter,,,E:/Xilinix/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/alex/Desktop/Random_generator/Random_generator.srcs/sources_1/new/trng_top.v,1766162701,verilog,,C:/Users/alex/Desktop/Random_generator/Random_generator.srcs/sim_1/new/tb_trng.v,,trng_top,,,E:/Xilinix/2025.1/Vivado/data/rsb/busdef,,,,,

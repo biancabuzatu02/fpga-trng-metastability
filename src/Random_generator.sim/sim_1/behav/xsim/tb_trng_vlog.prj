@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "E:/Xilinix/2025.1/Vivado/data/rsb/busdef" \
+"../../../../Random_generator.srcs/sources_1/new/entropy_model.v" \
+"../../../../Random_generator.srcs/sources_1/new/trng_top.v" \
+"../../../../Random_generator.srcs/sim_1/new/tb_trng.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
